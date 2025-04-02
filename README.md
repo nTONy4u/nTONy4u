@@ -17,6 +17,8 @@ These are my main skills in backend development and more.
   </a>
 </p>
 
+<img width="220" height="22" src="https://cdn.caseware.com/us/wp-content/uploads/sites/2/2023/06/caseware-logo.svg" alt="Caseware">
+
 <!--
 **nTONy4u/nTONy4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
