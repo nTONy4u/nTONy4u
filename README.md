@@ -13,7 +13,7 @@ I'm doing my best at practicing Java and learning new technologies!.
 These are my main skills in backend development and more. 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,neovim,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,sqlite,postgres,git,postman,neovim,raspberrypi,grafana,redis" />
   </a>
 </p>
 
